@@ -1,0 +1,8 @@
+data:
+  train_path: 'YOUR_PATH_HERE'
+  val_path: 'YOUR_PATH_HERE'
+
+tokenizer_path: 'YOUR_PATH_HERE'
+
+best_model_state_dict: 'YOUR_PATH_HERE'
+
